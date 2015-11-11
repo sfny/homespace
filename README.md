@@ -1,6 +1,6 @@
-This is the repo for the [SpaceTalk](http://spacetalkapp.com) homepage.
+This a repo based on the [SpaceTalk](http://spacetalkapp.com) homepage.
 
-It's a [Meteor](http://meteor.com) app. Start it with:
+It's a [Meteor](http://meteor.com) app.
 
 ```
 meteor
